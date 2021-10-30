@@ -11,18 +11,18 @@ MVC模式下的Java Web程序——员工管理系统
 
 ## 界面展示
 
-![登录界面](img1_login.png)
+![登录界面](images/img1_login.png)
 登录界面
 
-![主界面](img2_index.png)
+![主界面](images/img2_index.png)
 主界面
 
-![员工管理界面](img3_stuff_manage.png)
+![员工管理界面](images/img3_stuff_manage.png)
 员工管理界面
 
 ## 已知的问题
 
-- 必须运行 `WebContent\login.jsp`（即必须从登录页运行）
+- 必须运行 `WebContent/login.jsp`（即必须从登录页运行）
 - 修改自己的签到状态后签到状态不会即使更新
 
 ## 其他资源
